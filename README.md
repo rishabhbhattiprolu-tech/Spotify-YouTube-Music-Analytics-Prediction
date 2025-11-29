@@ -2,7 +2,7 @@
 
 This project analyzes how songs perform across Spotify and YouTube, combining audio features, metadata, and engagement metrics to understand what drives popularity. Using machine-learning models, it predicts Spotify stream counts and explores cross-platform trends in modern music consumption.
 
-📊 Dataset
+📊 Dataset: https://www.kaggle.com/datasets/salvatorerastelli/spotify-and-youtube
 
 The dataset includes song-level information such as:
 - Artist, track, album, and album type
